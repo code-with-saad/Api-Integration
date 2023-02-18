@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
       title: 'API INTEGRATION',
       home: Home_View(),
       debugShowCheckedModeBanner: false,
+      theme: ThemeData(fontFamily: 'Roboto'),
     );
   }
 }
